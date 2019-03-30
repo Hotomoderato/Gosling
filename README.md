@@ -1,2 +1,2 @@
 # Gosling
-![](Gosling/demo.gif)
+![](Gosling/Demo.gif)
